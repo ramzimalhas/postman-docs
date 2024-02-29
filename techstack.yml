@@ -2,7 +2,7 @@ repo_name: ramzimalhas/postman-docs
 report_id: 5391598134937db12b2f41cd67270e53
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:58:08+00:00'
+timestamp: '2024-02-29T19:33:05+00:00'
 requested_by: jkonrath-postman
 provider: github
 branch: develop
@@ -230,7 +230,7 @@ tools:
   last_updated_by: ch264
   last_updated_on: 2019-09-20 22:49:49.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.0
   license: MIT
